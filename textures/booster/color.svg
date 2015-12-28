@@ -17,7 +17,7 @@
    height="4096"
    viewBox="0 0 4096 4096"
    sodipodi:docname="color.svg"
-   inkscape:export-filename="/home/zlsa/projects/3d/vehicles/spacex/f9-v1.2/textures/booster/color.png"
+   inkscape:export-filename="/home/zlsa/projects/3d/vehicles/spacex/f9ft/textures/booster/color.png"
    inkscape:export-xdpi="90"
    inkscape:export-ydpi="90">
   <metadata
@@ -28,7 +28,7 @@
         <dc:format>image/svg+xml</dc:format>
         <dc:type
            rdf:resource="http://purl.org/dc/dcmitype/StillImage" />
-        <dc:title></dc:title>
+        <dc:title />
       </cc:Work>
     </rdf:RDF>
   </metadata>
@@ -43,14 +43,14 @@
      guidetolerance="10"
      inkscape:pageopacity="1"
      inkscape:pageshadow="2"
-     inkscape:window-width="534"
+     inkscape:window-width="1600"
      inkscape:window-height="859"
      id="namedview27228"
      showgrid="true"
-     inkscape:zoom="0.1767767"
-     inkscape:cx="1366.1971"
-     inkscape:cy="261.16852"
-     inkscape:current-layer="g27488"
+     inkscape:zoom="0.1767766999999995"
+     inkscape:cx="4014.714360854468"
+     inkscape:cy="2837.151703392179"
+     inkscape:current-layer="g28688"
      showguides="true"
      inkscape:guide-bbox="true"
      inkscape:object-nodes="true"
@@ -271,6 +271,12 @@
          id="path28704"
          inkscape:connector-curvature="0"
          sodipodi:nodetypes="csscccc" />
+      <path
+         sodipodi:nodetypes="csscccc"
+         inkscape:connector-curvature="0"
+         id="path3686"
+         d="m 369.82795,212.00138 c -5.66444,0 -7.38447,-4.72037 -8.02463,-8.96871 l -5.19242,-34.45874 c -0.85355,-5.66444 -4.72037,-7.55259 -7.08056,-7.55259 l 0,67.97339 20.29761,0 z"
+         style="fill:#202020;fill-opacity:1;fill-rule:evenodd;stroke:none;stroke-width:0.1180093735px;stroke-linecap:butt;stroke-linejoin:miter;stroke-opacity:1" />
     </g>
   </g>
 </svg>
